@@ -17,7 +17,7 @@ I'll going to make a quiz app that tests your general knowledge. As one of the m
 - private and public modifiers in Dart.
 - How to use Dart lists.
 
-## Code Snippet for Project
+## Questions I choose for the quiz:
 
 ```
 Question('Some cats are actually allergic to humans', true),
